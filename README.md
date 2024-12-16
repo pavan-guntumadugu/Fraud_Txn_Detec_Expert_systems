@@ -1,14 +1,7 @@
-# Fraud_Txn_Detec_Expert_systems
 
-Here is a shorter and concise version of the **README.md** focusing only on the commands to set up and run the program:
-
----
 
 ## **Fraud Transaction Detection Expert System**
 
-This is a Flask-based expert system for fraud detection using forward chaining rules.
-
----
 
 ### **Setup Instructions**
 
